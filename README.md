@@ -128,11 +128,3 @@ Backend Developer | PDF Automation | Flask | Django
 [LinkedIn: www.linkedin.com/in/anagha-g-adiga-577567259] | \[GitHub:  GitHub: AnaghaGAdiga] 
 
 ---
-
-Would you like me to:
-
-* Zip this up for you as a downloadable GitHub-ready package?
-* Help deploy it on **Render**, **Railway**, or **Heroku**?
-* Help you write the GitHub repo description and tags?
-
-Let me know what you want next!
