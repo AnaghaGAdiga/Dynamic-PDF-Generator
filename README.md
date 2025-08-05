@@ -124,7 +124,8 @@ Receives webhook status updates (simulated callback for testing).
 
 **Anagha G.**
 Backend Developer | PDF Automation | Flask | Django
-\[LinkedIn: www.linkedin.com/in/anagha-g-adiga-577567259] | \[GitHub: GitHub: AnaghaGAdiga] 
+\
+[LinkedIn: www.linkedin.com/in/anagha-g-adiga-577567259] | \[GitHub:  GitHub: AnaghaGAdiga] 
 
 ---
 
